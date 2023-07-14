@@ -1,4 +1,4 @@
-My biggest learning project. Online store from scratch using HTML, CSS and JS.
+My biggest learning project. Online store from scratch using HTML, CSS and JS. (NOT FINISHED)
 
 Based on free for non-commercial use Figma design. You can see it at the link below
 
