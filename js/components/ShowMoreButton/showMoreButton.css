@@ -1,0 +1,11 @@
+.products__button {
+  color: #b88e2f;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.5;
+  border: 1px solid #b88e2f;
+  padding: 0 80px;
+  min-height: 45px;
+  background-color: transparent;
+  margin-top: 32px;
+}
